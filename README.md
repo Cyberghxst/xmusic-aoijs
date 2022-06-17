@@ -4,7 +4,6 @@
 - YouTube, and SoundCloud support.
 - Slash commands support.
 - Loop mode.
-- Multiple filters.
 - Multilanguage.
 - **OPEN SOURCE**
 
