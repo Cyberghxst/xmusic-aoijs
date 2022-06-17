@@ -1,7 +1,7 @@
 # xMusic
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=32CD32&lines=an+AOI.js-based+music+bot+for+Discord;The+upcoming+pro-level+music+bot;The+next+generation+of+music+bots;A+pro+music+bot;LMAO+who+is+reading+this;Invite+xMusic+rn;omg+this+is+real?)](https://git.io/typing-svg)
 > Features:
-- YouTube, SoundCloud and Spotify support.
+- YouTube, and SoundCloud support.
 - Slash commands support.
 - Loop mode.
 - Multiple filters.
