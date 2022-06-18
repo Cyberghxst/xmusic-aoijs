@@ -7,6 +7,5 @@
 - Multilanguage.
 - **OPEN SOURCE**
 
-|[Support server](https://discord.gg/vmxz3nFxd6)|[Invite](https://discord.com/api/oauth2/authorize?client_id=987212881554726914&permissions=137442479168&scope=bot%20applications.commands)
-|[Website](https://xmusicbot.carrd.co/)
+|[Support server](https://discord.gg/vmxz3nFxd6)|[Invite](https://discord.com/api/oauth2/authorize?client_id=987212881554726914&permissions=137442479168&scope=bot%20applications.commands)|[Website](https://xmusicbot.carrd.co/)|
 |---|---|---|
